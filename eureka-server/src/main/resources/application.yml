@@ -1,0 +1,12 @@
+server:
+  port: 8761
+
+spring:
+  application:
+    name: eureka-server
+
+eureka:
+  client:
+    fetch-registry: false # Cho biết liệu ứng dụng khách này có nên tìm nạp thông tin đăng ký eureka từ máy chủ eureka hay không.
+    register-with-eureka: false # Cho biết liệu phiên bản này có nên đăng ký thông tin của nó với máy chủ eureka để người khác khám phá hay không. Trong một số trường hợp, bạn không muốn các phiên bản của mình bị phát hiện trong khi bạn chỉ muốn khám phá các phiên bản khác.
+
