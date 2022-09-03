@@ -1,4 +1,4 @@
-package com.giakinh.customer;
+package com.giakinh.clients.fraud;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
