@@ -4,7 +4,8 @@ server:
 spring:
   application:
     name: eureka-server
-
+  zipkin:
+    base-url: http://localhost:9411
 eureka:
   client:
     fetch-registry: false # Cho biết liệu ứng dụng khách này có nên tìm nạp thông tin đăng ký eureka từ máy chủ eureka hay không.
