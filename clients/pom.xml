@@ -13,8 +13,6 @@
     <name>clients</name>
     <description>clients</description>
 
-    <properties>
-        <java.version>11</java.version>
-    </properties>
+    <packaging>jar</packaging>
 
 </project>

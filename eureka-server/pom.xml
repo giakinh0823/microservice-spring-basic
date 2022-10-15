@@ -13,9 +13,7 @@
 	<name>eureka-server</name>
 	<description>eureka-server</description>
 
-	<properties>
-		<java.version>11</java.version>
-	</properties>
+	<packaging>jar</packaging>
 
 	<dependencies>
 		<dependency>

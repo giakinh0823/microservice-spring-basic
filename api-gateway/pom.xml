@@ -14,9 +14,7 @@
     <name>api-gateway</name>
     <description>api-gateway</description>
 
-    <properties>
-        <java.version>11</java.version>
-    </properties>
+    <packaging>jar</packaging>
 
     <dependencies>
         <dependency>

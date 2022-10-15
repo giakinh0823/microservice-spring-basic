@@ -13,9 +13,7 @@
 	<name>fraud</name>
 	<description>fraud</description>
 
-	<properties>
-		<java.version>11</java.version>
-	</properties>
+	<packaging>jar</packaging>
 
 	<dependencies>
 		<dependency>

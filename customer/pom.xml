@@ -11,9 +11,7 @@
 
     <artifactId>customer</artifactId>
 
-    <properties>
-        <java.version>11</java.version>
-    </properties>
+    <packaging>jar</packaging>
 
     <dependencies>
         <dependency>
